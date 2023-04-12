@@ -1,2 +1,2 @@
-# stablesd-learn-feedback
-https://www.stable-learn.com/en/introduction
+# stablesd-learn-feedback 
+If you have good ideas, you can bring them up in the issues section of this repository. We welcome everyone to join us and build a stable diffusion ecosystem together.
